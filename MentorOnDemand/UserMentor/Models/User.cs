@@ -16,6 +16,7 @@ namespace UserMentor.Models
         public string User_Email { get; set; }
         [Required]
         public long User_Mobile { get; set; }
+        public string User_Password { get; set; }
         public bool? User_active { get; set; }
 
     }

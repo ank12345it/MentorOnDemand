@@ -30,6 +30,7 @@ namespace UserMentor
         {
             services.AddDbContext<UserMentorContext>(opts => opts.UseSqlServer(Configuration["ConnectionStrings:MOD_Db1"]));
             services.AddTransient<IMentorRepository, MentorRepository>();
+            services.AddTransient<IUserRepository, UserRepository>();
             services.AddControllers();
         }
 

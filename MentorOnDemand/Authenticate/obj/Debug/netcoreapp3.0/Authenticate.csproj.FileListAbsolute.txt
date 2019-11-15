@@ -15,3 +15,4 @@ C:\Users\Lenovo\source\repos\MentorOnDemand\Authenticate\obj\Debug\netcoreapp3.0
 C:\Users\Lenovo\source\repos\MentorOnDemand\Authenticate\obj\Debug\netcoreapp3.0\Authenticate.RazorTargetAssemblyInfo.cache
 C:\Users\Lenovo\source\repos\MentorOnDemand\Authenticate\obj\Debug\netcoreapp3.0\Authenticate.dll
 C:\Users\Lenovo\source\repos\MentorOnDemand\Authenticate\obj\Debug\netcoreapp3.0\Authenticate.pdb
+C:\Users\Lenovo\source\repos\MentorOnDemand\Authenticate\obj\Debug\netcoreapp3.0\Authenticate.csprojAssemblyReference.cache
